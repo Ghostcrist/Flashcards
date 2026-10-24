@@ -1,0 +1,7 @@
+Aqui va el modelo de voz en ingles (para el microfono).
+
+1. Descarga: https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip  (~40 MB)
+2. Descomprimelo AQUI, para que quede asi:
+     TalkStalk/modelo/vosk-model-small-en-us-0.15/am
+     TalkStalk/modelo/vosk-model-small-en-us-0.15/conf
+     ...
